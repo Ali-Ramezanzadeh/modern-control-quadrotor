@@ -1,0 +1,107 @@
+{
+  "method": "Independent reconstruction from live-script equations; no MATLAB/Simulink execution. Exact rational matrix ranks.",
+  "numpy_version": "2.3.5",
+  "phases": {
+    "phase-01": {
+      "state_order": 12,
+      "controllability_rank_exact": 12,
+      "observability_rank_exact": 12,
+      "A_power_4_is_zero": true,
+      "A_power_3_rank_exact": 2,
+      "transfer_matrix": [
+        [
+          "0",
+          "0",
+          "(19620/7)/s^4",
+          "0"
+        ],
+        [
+          "0",
+          "(-19620/7)/s^4",
+          "0",
+          "0"
+        ],
+        [
+          "(1)/s^2",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0",
+          "0",
+          "(200)/s^2"
+        ]
+      ]
+    },
+    "phase-02": {
+      "state_order": 12,
+      "controllability_rank_exact": 12,
+      "observability_rank_exact": 12,
+      "A_power_4_is_zero": true,
+      "A_power_3_rank_exact": 2,
+      "transfer_matrix": [
+        [
+          "0",
+          "0",
+          "(24525000/21383)/s^4",
+          "0"
+        ],
+        [
+          "0",
+          "(-24525000/21383)/s^4",
+          "0",
+          "0"
+        ],
+        [
+          "(1)/s^2",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0",
+          "0",
+          "(25000/369)/s^2"
+        ]
+      ],
+      "integral_augmented_controllability_rank_exact": 16
+    },
+    "phase-03": {
+      "state_order": 12,
+      "controllability_rank_exact": 12,
+      "observability_rank_exact": 12,
+      "A_power_4_is_zero": true,
+      "A_power_3_rank_exact": 2,
+      "transfer_matrix": [
+        [
+          "0",
+          "0",
+          "(24525000/21383)/s^4",
+          "0"
+        ],
+        [
+          "0",
+          "(-24525000/21383)/s^4",
+          "0",
+          "0"
+        ],
+        [
+          "(1)/s^2",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0",
+          "0",
+          "(25000/369)/s^2"
+        ]
+      ],
+      "integral_augmented_controllability_rank_exact": 16
+    }
+  }
+}

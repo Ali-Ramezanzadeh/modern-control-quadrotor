@@ -1,0 +1,15 @@
+* text=auto
+*.md text eol=lf
+*.m text eol=lf
+*.py text eol=lf
+*.json text eol=lf
+*.mlx binary
+*.slx binary
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.jp2 binary
+*.tif binary
+*.tiff binary
+presentation/presentation-original.txt -text

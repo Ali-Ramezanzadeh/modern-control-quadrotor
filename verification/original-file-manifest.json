@@ -1,0 +1,80 @@
+[
+  {
+    "source": "phase-01\\Phase1.mlx",
+    "repository_file": "phases/phase-01/matlab/Phase1.mlx",
+    "bytes": 94964,
+    "sha256": "1d017d6a846d179fcc08524847597ac48f9a6d2e75ffd2744745732e1711a41a"
+  },
+  {
+    "source": "phase-01\\Phase1_simulink.slx",
+    "repository_file": "phases/phase-01/matlab/Phase1_simulink.slx",
+    "bytes": 73146,
+    "sha256": "721f269c0805893cfab529b89af2ee29e95d95a79eb87a949ecce73080fe4c2c"
+  },
+  {
+    "source": "phase-01\\Report_Phase1.pdf",
+    "repository_file": "phases/phase-01/reports/report.fa.pdf",
+    "bytes": 1588438,
+    "sha256": "40a39ca0d3e7b7fc6b73439361dc7a931e6cee2b4db38df1371dd09ccb0cd914"
+  },
+  {
+    "source": "assignments\\MC_Project1.pdf",
+    "repository_file": "phases/phase-01/assignment/assignment.fa.pdf",
+    "bytes": 3017421,
+    "sha256": "a53ee80d623295f52e527a454c1d63780bd32ee16cb07dc8b3c2675d9bec673b"
+  },
+  {
+    "source": "phase-02\\Main.mlx",
+    "repository_file": "phases/phase-02/matlab/Main.mlx",
+    "bytes": 100538,
+    "sha256": "8d1b0307e8b398e4aa98253fef83e7e7b3d4ae7280b665f681ce6de410ba11e4"
+  },
+  {
+    "source": "phase-02\\Main.slx",
+    "repository_file": "phases/phase-02/matlab/Main.slx",
+    "bytes": 115511,
+    "sha256": "302244c8140cd9f5841d5bfca7c630d8a5fd24c30d493b5b278ca661cb62ccef"
+  },
+  {
+    "source": "phase-02\\MC_Project_Phase2.pdf",
+    "repository_file": "phases/phase-02/reports/report.fa.pdf",
+    "bytes": 992512,
+    "sha256": "d27f2856bda4eac6dcca90023a7388517e4d0b447389eacba6f751319176ad17"
+  },
+  {
+    "source": "assignments\\MC_Project2.pdf",
+    "repository_file": "phases/phase-02/assignment/assignment.fa.pdf",
+    "bytes": 137937,
+    "sha256": "739f56d76252f830f3560d64f0e4f786945d38d71ddc24d66a884da3f0b051f6"
+  },
+  {
+    "source": "phase-03\\Main.mlx",
+    "repository_file": "phases/phase-03/matlab/Main.mlx",
+    "bytes": 75110,
+    "sha256": "2bc169da22007c6e7ac9aec9d907df0dcccdf14bf3d86f3310d4e5a5bec90254"
+  },
+  {
+    "source": "phase-03\\Main.slx",
+    "repository_file": "phases/phase-03/matlab/Main.slx",
+    "bytes": 160079,
+    "sha256": "68ca20d0b7f4e9228be9f45cfa02bb7bb04d32a978eebd5646d21c47ee134e5c"
+  },
+  {
+    "source": "phase-03\\MC_Project .pdf",
+    "repository_file": "phases/phase-03/reports/report.fa.pdf",
+    "bytes": 3855388,
+    "sha256": "705dfcb3e5c87c899b844f317be2d75c0f438e7c402c987da3ffbf173aaf41e5"
+  },
+  {
+    "source": "assignments\\MC_project3.pdf",
+    "repository_file": "phases/phase-03/assignment/assignment.fa.pdf",
+    "bytes": 167076,
+    "sha256": "f05fc354249725c20254fe983fa393574bdc47476327467670e7e883989e4d98"
+  },
+  {
+    "source": "phase-03\\presentation.txt",
+    "repository_file": "presentation/presentation-original.txt",
+    "bytes": 44,
+    "sha256": "5c09ba2073c90c17c7a807c8581efd065a5a7a9e640417b65e0f7bd941c72f37"
+  }
+]

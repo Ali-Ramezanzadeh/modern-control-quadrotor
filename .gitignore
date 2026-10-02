@@ -1,0 +1,23 @@
+# MATLAB / Simulink generated files
+*.asv
+*.autosave
+*.slxc
+slprj/
+codegen/
+*_ert_rtw/
+*_grt_rtw/
+*.mexw64
+*.mexa64
+*.mexmaci64
+
+# Local editor / operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+
+# Locally generated verification results
+verification/hover-check-results.local.json

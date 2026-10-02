@@ -1,0 +1,18 @@
+{
+  "source": "Phase1.mlx",
+  "source_sha256": "1d017d6a846d179fcc08524847597ac48f9a6d2e75ffd2744745732e1711a41a",
+  "code_cell_count": 10,
+  "code_cell_sha256": [
+    "39cbaf991584a475e9bd6a949e22a5a8593b4455db3e916da12618f922ba640f",
+    "17b99fb0a2d7996e8fd7c4c4d6e4303aec6ce466fd681c7d216cbb5ea3f7088f",
+    "1347a5840794b6c9ace02970b982fc21ad7f2f09d23f973d56b0d11676f10a24",
+    "ef4cc17dd0df4ee6cea77653046ae9edb48dd86e96cae1f284150bec70d70269",
+    "8218ca51b2552f568c92d2a8f756ec3ee9e09fd13472e45c763c1cebf01e0911",
+    "2d6d6c670e14413505984a1da38f141e9f59c55775c9182733f39dafec888562",
+    "08ff76593dd55b9f54da5ffc56eb12faacc8dd7308c1d8dad2f16ae34318a974",
+    "4387a8626659c04d40fa88c9cf1717359936dbef7cb4765ba448bcfab0d75a28",
+    "055cc7bd66ba2b59e2121ff44851c260d29f195b0ad4aa790f97b8874b5608d4",
+    "7fcf27384b1fe04f138a7712ec8921ce818c0a9ad57a5eb4c8a7882c8006d026"
+  ],
+  "method": "Extract w:p with w:pStyle=code from matlab/document.xml; prose converted to MATLAB comments; code text preserved. No saved Live Editor outputs exported."
+}
